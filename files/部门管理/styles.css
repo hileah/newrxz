@@ -922,7 +922,7 @@
   top:0px;
   width:56px;
   height:42px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -1166,7 +1166,7 @@
   top:42px;
   width:56px;
   height:48px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -1436,7 +1436,7 @@
   top:0px;
   width:56px;
   height:48px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3738,7 +3738,7 @@
   top:0px;
   width:58px;
   height:40px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3817,7 +3817,7 @@
   top:40px;
   width:58px;
   height:48px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -3913,7 +3913,7 @@
   top:0px;
   width:58px;
   height:48px;
-  font-family:'FontAwesome Regular', 'FontAwesome';
+  font-family:'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -15119,7 +15119,6 @@
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:14px;
   text-align:left;
 }
 #u1702 {
@@ -15132,7 +15131,6 @@
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:14px;
   text-align:left;
 }
 #u1703 {
